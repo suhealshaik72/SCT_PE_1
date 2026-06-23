@@ -36,22 +36,12 @@ Explain Artificial Intelligence in 8 bullet points for MCA students. Include app
 - Creating more accurate and useful AI responses.
 - Learning the importance of clarity and context in prompts.
 
-## Tools Used
-- ChatGPT
-- GitHub
-- Prompt Engineering Techniques
+
 
 ## Conclusion
 This task demonstrates that well-structured prompts produce more relevant, detailed, and accurate responses compared to vague prompts. Effective prompt design is a key skill for working with AI-powered tools.
 
-## Repository Structure
 
-Task-01-Writing-Better-Prompts/
-│
-├── README.md
-├── Task01_Report.pdf
-└── Screenshots/
-    └── prompt_comparison.png
 
 ## Author
 Suheal Shaik  
